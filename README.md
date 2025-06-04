@@ -1,8 +1,5 @@
 # 🫁 YOLO-Pneumonia-Detection
 
-![image](https://github.com/user-attachments/assets/a3d48090-e1bc-48cb-87f0-5d93a0409a39)
-
-
 Bu proje, YOLO (You Only Look Once) nesne tespiti algoritması kullanılarak, akciğer röntgen görüntülerinde yalnızca zatürre (pnömoni) tespiti üzerine geliştirilmiştir. Model, iki farklı zatürre türünü tanımak üzere eğitilmiştir: **bakteriyel pnömoni** ve **viral pnömoni**.
 
 ## 🔍 Proje Amacı
@@ -67,8 +64,8 @@ Model YOLOv5 kullanılarak eğitildi. Görüntüler `YOLO formatında` etiketlen
 
 Aşağıda modelin test verisi üzerinde yaptığı tahminlerden bazı örnekler verilmiştir:
 
-![prediction1](samples/sample1.png)  
-![prediction2](samples/sample2.png)
+![prediction1](![image](https://github.com/user-attachments/assets/10a56926-59ee-4bb4-91b9-730010f78483))  
+
 
 ---
 
