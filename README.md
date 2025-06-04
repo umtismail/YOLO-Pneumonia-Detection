@@ -23,7 +23,7 @@ Medikal görüntüleme alanında tanı süreçlerini hızlandırmak ve doktorlar
 ## 📁 Veri Kümesi
 
 Kullanılan veri seti: **Chest X-Ray Images (Pneumonia)**  
-Kaynak: [Kaggle - Chest X-Ray Images (Pneumonia)](https://data.mendeley.com/datasets/rscbjbr9sj/2)
+Kaynak: [Mendeley Data - hest X-Ray Images for Classification](https://data.mendeley.com/datasets/rscbjbr9sj/2)
 
 Veri kümesi 3 ana klasörden oluşur:
 - `NORMAL`
@@ -64,7 +64,7 @@ Model YOLOv5 kullanılarak eğitildi. Görüntüler `YOLO formatında` etiketlen
 
 Aşağıda modelin test verisi üzerinde yaptığı tahminlerden bazı örnekler verilmiştir:
 
-![prediction1](![image](https://github.com/user-attachments/assets/10a56926-59ee-4bb4-91b9-730010f78483)
+![image](https://github.com/user-attachments/assets/10a56926-59ee-4bb4-91b9-730010f78483)
 
 
 ---
