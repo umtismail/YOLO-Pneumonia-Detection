@@ -64,7 +64,7 @@ Model YOLOv5 kullanılarak eğitildi. Görüntüler `YOLO formatında` etiketlen
 
 Aşağıda modelin test verisi üzerinde yaptığı tahminlerden bazı örnekler verilmiştir:
 
-![prediction1](![image](https://github.com/user-attachments/assets/10a56926-59ee-4bb4-91b9-730010f78483))  
+![prediction1](![image](https://github.com/user-attachments/assets/10a56926-59ee-4bb4-91b9-730010f78483)
 
 
 ---
